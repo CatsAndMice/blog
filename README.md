@@ -1,7 +1,15 @@
 # 博客目录
 
-### 前端知识点
+> 其他博客平台:
+> <br />
+> 微信公众号: **隔壁姥爷**
+> <br />
+> <a href="https://juejin.cn/user/3350967174565198/posts">掘金</a>
+>  <br />
+> <a href="https://blog.csdn.net/qq_45472813?spm=1001.2100.3001.5343">CSDN</a>
+>  <br />
 
+### 前端知识点
 * <a href="https://github.com/lihai-boop/Blog/blob/main/%E9%87%8D%E5%AD%A6Vue%20Components.md">重学Vue Components</a>
 * <a href="https://github.com/lihai-boop/Blog/blob/main/%E7%9C%8B%E5%AE%8C%E8%BF%99%E7%AF%87%EF%BC%8C%E8%AE%A9%E6%82%A8%E7%9A%84js%E4%BC%98%E9%9B%85%E4%B8%80%E4%B8%AA%E6%A1%A3%E6%AC%A1.md">看完这篇，让您的js优雅一个档次</a>
 * <a href="https://github.com/lihai-boop/Blog/blob/main/%E6%B7%B1%E5%85%A5%E5%89%96%E6%9E%90This%E6%9C%BA%E5%88%B6.md">深入剖析This机制</a>
