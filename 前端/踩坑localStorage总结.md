@@ -46,7 +46,7 @@ locatorage，sesionStorage统称webStorage。大家知道cookie储存空间大�
 
  removeItem（key）//删除数据，通过指定名称key删除对应的值
 
- clear（）//指定所有存储的内容
+ clear（）//清除所有存储的内容
 
 ```
 
