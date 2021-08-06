@@ -34,3 +34,8 @@
 ### 数据库
 * <a href="https://github.com/lihai-boop/Blog/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9AMYSQL.md">必知必会MYSQL</a>
 * <a href="https://github.com/lihai-boop/Blog/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9AMYSQL%E4%B8%8B%E7%AF%87.md">必知必会MYSQL下篇</a>
+
+### 生活琐事
+* <a href="https://github.com/lihai-boop/Blog/blob/main/%E7%94%9F%E6%B4%BB%E7%90%90%E4%BA%8B/%E5%86%99%E7%BB%99%E4%BA%94%E5%B9%B4%E5%90%8E%E7%9A%84%E8%87%AA%E5%B7%B1.md">写给五年后的自己</a>
+* <a href="https://github.com/lihai-boop/Blog/blob/main/%E7%94%9F%E6%B4%BB%E7%90%90%E4%BA%8B/%E9%9D%9E%E7%A7%91%E7%8F%AD%E8%8E%B7%E5%8F%96%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E4%BB%BDoffer.md">非科班获取人生第一份offer</a>
+* <a href="https://github.com/lihai-boop/Blog/blob/main/%E7%94%9F%E6%B4%BB%E7%90%90%E4%BA%8B/%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%E5%B0%8F%E6%8A%80%E5%B7%A7.md">微信多开小技巧</a>
