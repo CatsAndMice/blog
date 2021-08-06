@@ -41,4 +41,13 @@
 * <a href="https://github.com/lihai-boop/Blog/blob/main/%E7%94%9F%E6%B4%BB%E7%90%90%E4%BA%8B/%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%E5%B0%8F%E6%8A%80%E5%B7%A7.md">微信多开小技巧</a>
 
 ### 每日刷一道面试题
+<a href=https://github.com/lihai-boop/Blog/issues/2>用最精炼的代码实现数组非零非负最小值 index</a>
+```js
+// [10,21,0,-7,35,7,9,23,18] 输出 5, 7 最小
+function getIndex(arr){
+    let index=null;
+    ...
+    return index;
+} 
+```
 <a href="">1.实现对象的 Map 函数类似 Array.prototype.map</a>
