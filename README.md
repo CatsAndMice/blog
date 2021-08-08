@@ -41,6 +41,27 @@
 * <a href="https://github.com/lihai-boop/Blog/blob/main/%E7%94%9F%E6%B4%BB%E7%90%90%E4%BA%8B/%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%E5%B0%8F%E6%8A%80%E5%B7%A7.md">微信多开小技巧</a>
 
 ### 每日刷一道面试题
+<a href="">输出以下代码运行结果，为什么？如果希望每隔 1s 输出一个结果，应该如何改造？注意不可改动 square 方法</a>
+```js
+const list = [1, 2, 3]
+const square = num => {
+    return new Promise((resolve, reject) => {
+        setTimeout(() => {
+            resolve(num * num)
+        }, 1000)
+    })
+}
+
+function test() {
+    list.forEach((x, i) => {
+        setTimeout(async () => {
+            const res = await square(x)
+            console.log(res)
+        }, 1000 * i);
+    })
+}
+test()
+```
 <a href=https://github.com/lihai-boop/Blog/issues/2>2.用最精炼的代码实现数组非零非负最小值 index</a>
 ```js
 // [10,21,0,-7,35,7,9,23,18] 输出 5, 7 最小
