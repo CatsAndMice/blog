@@ -41,4 +41,4 @@
 * <a href="https://github.com/lihai-boop/Blog/blob/main/%E7%94%9F%E6%B4%BB%E7%90%90%E4%BA%8B/%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%E5%B0%8F%E6%8A%80%E5%B7%A7.md">微信多开小技巧</a>
 
 ### 每日刷一道面试题
-<a href="">最新面试题</a>
+<a href="https://github.com/lihai-boop/Blog/issues">最新面试题</a>
