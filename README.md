@@ -2,7 +2,7 @@
 
 > 开源工具npm包：
 > <br>
-> <a href="https://www.npmjs.com/settings/lihai-js/packages">https://www.npmjs.com/settings/lihai-js/packages</a>
+> <a href="https://github.com/CatsAndMice/tool">https://github.com/CatsAndMice/tool</a>
 > <br>
 > <br>
 > 博客平台:
