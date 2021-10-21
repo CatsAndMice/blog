@@ -35,7 +35,7 @@ webpack.config.js添加配置, css预处理器使用了scss,需要配置 sass-lo
 
 运行报TypeError:this.getOptions is not a function，
 
-![](image/image.png)
+![](https://i.bmp.ovh/imgs/2021/10/3287e6002349587c.png)
 
 该问题属于: 版本不兼容，降级sass-loader@9，
 
