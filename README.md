@@ -1,6 +1,6 @@
 # 目录
 
-> 开源工具npm包：
+> 开源工具npm包：  
 > <br>
 > <a href="https://github.com/CatsAndMice/tool">https://github.com/CatsAndMice/tool</a>
 > <br>
@@ -15,6 +15,7 @@
 >  <br />
 
 ### 前端  
+* <a href="https://www.wolai.com/qwxnZjF1kL1NzWUESEjNry">50+行代码搞定一行命令更新Npm包</a>
 * <a href="https://github.com/CatsAndMice/Blog/issues/32">Github Actions实现仓库自动同步Gitee并更新文档</a>
 * <a href="https://github.com/CatsAndMice/Blog/issues/28">有手就会系列——实现日地月公转</a>
 * <a href="https://github.com/CatsAndMice/Blog/blob/main/%E5%89%8D%E7%AB%AF/%E5%AE%9E%E7%8E%B0%E6%87%92%E5%8A%A0%E8%BD%BD%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%96%B9%E5%BC%8F.md">实现懒加载的四种方式</a>
