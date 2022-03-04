@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/CatsAndMice/Blog#readme",
   "dependencies": {
-    "axios": "^0.26.0"
+    "axios": "^0.26.0",
+    "mysql2": "^2.3.3"
   }
 }
