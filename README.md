@@ -12,7 +12,8 @@
 > <a href="https://blog.csdn.net/qq_45472813?spm=1001.2100.3001.5343">CSDN</a>
 >  <br />
 
-### 前端  
+### 前端
+* <a href="https://github.com/CatsAndMice/Blog/issues/34">玩转nodeJs文件模块</a>
 * <a href="https://github.com/CatsAndMice/Blog/issues/33">50+行代码搞定一行命令更新Npm包</a>
 * <a href="https://github.com/CatsAndMice/Blog/issues/32">Github Actions实现仓库自动同步Gitee并更新文档</a>
 * <a href="https://github.com/CatsAndMice/Blog/issues/28">有手就会系列——实现日地月公转</a>
