@@ -13,6 +13,8 @@
 >  <br />
 
 ### 前端
+* <a href="https://github.com/CatsAndMice/Blog/issues/35">定义一个常量，它真的不变吗？</a>
+* <a href="https://github.com/CatsAndMice/Blog/issues/36">仿Mac程序坞放大动画</a>
 * <a href="https://github.com/CatsAndMice/Blog/issues/34">玩转nodeJs文件模块</a>
 * <a href="https://github.com/CatsAndMice/Blog/issues/33">50+行代码搞定一行命令更新Npm包</a>
 * <a href="https://github.com/CatsAndMice/Blog/issues/32">Github Actions实现仓库自动同步Gitee并更新文档</a>
