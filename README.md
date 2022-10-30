@@ -13,7 +13,7 @@
 >  <br />
 
 ### 前端
-* <a href="【Git】what?2022年了，居然不知道git reset、git revert是什么">【Git】what?2022年了，居然不知道git reset、git revert是什么</a>
+* <a href="https://github.com/CatsAndMice/Blog/issues/38">【Git】what?2022年了，居然不知道git reset、git revert是什么</a>
 * <a href="https://github.com/CatsAndMice/Blog/issues/37">仿jsDoc写一个最简单的文档生成</a>
 * <a href="https://github.com/CatsAndMice/Blog/issues/35">定义一个常量，它真的不变吗？</a>
 * <a href="https://github.com/CatsAndMice/Blog/issues/36">仿Mac程序坞放大动画</a>
