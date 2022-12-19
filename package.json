@@ -22,6 +22,8 @@
     "vuepress": "^1.9.7"
   },
   "dependencies": {
-    "coco-git": "^1.3.6"
+    "coco-git": "^1.3.6",
+    "moment": "^2.29.4",
+    "vuepress-theme-reco": "^1.5.7"
   }
 }
