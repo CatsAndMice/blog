@@ -3,7 +3,7 @@ module.exports = {
     keywords:
         "凌览，前端，分享前端知识点",
     description: "凌览，微信搜索「凌览社」关注我，长期交流学习。",
-    base:'/b/',
+    base:'/blog/',
     themeConfig: {
         nav: [
             { text: '公众号：凌览社', link: '/images/wx.md' },
