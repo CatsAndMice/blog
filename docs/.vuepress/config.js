@@ -1,4 +1,3 @@
-const lastUpdated = require('@vuepress/plugin-last-updated')
 module.exports = {
     title: "凌览的博客",
     keywords:
@@ -17,19 +16,6 @@ module.exports = {
             process: true
         },
     },
-    plugins: [
-        [
-            lastUpdated,
-            {
-                transformer: (timestamp, lang) => {
-                    // 不要忘了安装 moment
-                    const moment = require('moment')
-                    moment.locale(lang)
-                    return moment(timestamp).fromNow()
-                }
-            }
-        ]
-    ],
     themeConfig: {
         subSidebar: 'auto',
         lastUpdated: '上次更新',
