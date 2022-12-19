@@ -17,7 +17,7 @@ module.exports = {
                 title: '年度总结',
                 collapsable: true,
                 children: [
-                    { title: "学前必读", path: "/" }
+                    { title: "平淡无奇，2022年终总结", path: "/annualSummary/平淡无奇，2022年终总结/平淡无奇，2022年终总结.md" }
                 ]
             },
             {
