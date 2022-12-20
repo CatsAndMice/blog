@@ -28,10 +28,16 @@ module.exports = {
         ],
         sidebar: [
             {
-                title: '随笔',
+                title: '历史文章',
                 collapsable: true,
                 children: [
-                    { title: "写给五年后的自己", path: "/ramblings/写给五年后的自己.md" }
+                    { title: "ffmpeg视频压缩踩坑总结", path: "/history/ffmpeg视频压缩踩坑总结.md" },
+                    { title: "有手就会系列——实现日地月公转", path: "/history/有手就会系列——实现日地月公转.md" },
+                    { title: "实现懒加载的四种方式", path: "/history/实现懒加载的四种方式.md" },
+                    { title: "重学Vue Components", path: "/history/重学Vue Components.md" },
+                    { title: "多个Vue项目如何配置nginx", path: "/history/多个Vue项目如何配置nginx.md" },
+                    { title: "marker伪元素让文字序号不再呆板", path: "/history/marker伪元素让文字序号不再呆板.md" },
+                    { title: "深入剖析This机制", path: "/history/深入剖析This机制.md" },
                 ]
             },
             {

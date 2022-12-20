@@ -287,5 +287,5 @@ dd {
 
 <a href="https://blog.csdn.net/qq_45472813/article/details/118382226">CSS::marker让文字序号不再呆板</a>,`counter`配合`::marker`可以做有趣列表展示。
 
-公众号:隔壁姥爷，求个关注❤️‍🔥
+公众号:凌览社，求个关注❤️‍🔥
 
