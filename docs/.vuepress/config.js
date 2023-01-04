@@ -41,7 +41,14 @@ module.exports = {
                 ]
             },
             {
-                title: '年度总结',
+                title: 'node.js实战',
+                collapsable: true,
+                children: [
+                    { title: "平淡无奇，2022年终总结", path: "/annualSummary/平淡无奇，2022年终总结/平淡无奇，2022年终总结.md" }
+                ]
+            },
+            {
+                title: '我的故事',
                 collapsable: true,
                 children: [
                     { title: "平淡无奇，2022年终总结", path: "/annualSummary/平淡无奇，2022年终总结/平淡无奇，2022年终总结.md" }
