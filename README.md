@@ -30,8 +30,4 @@
 2. <a href="https://github.com/CatsAndMice/blog/issues/29">写给五年后的自己</a>
 
 
-
-
-<script>
-    console.log('js')
-</script>
+<img src="22" />
