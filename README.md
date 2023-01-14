@@ -24,10 +24,10 @@
 2. <a href="https://github.com/CatsAndMice/blog/issues/33">50+行代码搞定一行命令更新Npm包</a>
 3. <a href="https://github.com/CatsAndMice/blog/issues/37">仿jsDoc写一个最简单的文档生成</a>
 4. <a href="https://github.com/CatsAndMice/blog/issues/34">玩转nodeJs文件模块</a>
+5. <a href="https://github.com/CatsAndMice/blog/issues/41">【Node.js】写一个数据自动整理成表格的脚本</a>
 
 ## 我的故事
 1. <a href="https://github.com/CatsAndMice/blog/issues/39">平淡无奇，2022年终总结</a>
 2. <a href="https://github.com/CatsAndMice/blog/issues/29">写给五年后的自己</a>
 
 
-<img src="22" />
