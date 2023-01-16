@@ -1,40 +1,23 @@
 const { Client } = require('ssh2');
-const conn = new Client();
-const execFn = (c = conn) => {
-    return (command) => {
-        return new Promise((resolve, reject) => {
-            c.exec(command, (err, stream) => {
-                if (err) {
-                    reject(err)
-                    return
-                }
-                let result = ''
-                stream.on('close', () => {
-                    resolve(String(result))
-                }).on('data', (data) => {
-                    result += data
-                })
-            })
-        })
-    }
-}
+const configs = require('./config.json')
+const sshServer = require('./sshServer.js');
 
-const exec = execFn(conn)
-conn.on('ready', async (err) => {
-    if (err) throw err
-    console.log('连接成功');
-    const result = await exec('echo "ywja666" | sudo -S  docker ps -a -q')
-    const dockerIds = result.split('\r')
-    dockerIds.forEach(async (id) => {
-        console.log(id);
-        const data = await exec(`echo "ywja666" | sudo -S  docker logs -f --tail 200 ${id}`)
-        const isError = data.includes('error')
-        console.log(isError, '无',id)
+const conn = new Client();
+const promises = []
+const tables = [
+    ['服务器ip', 'docker是否正常运行', 'docker远程访问', 'Docker日志是否有报错信息']
+]
+configs.forEach((config) => {
+    promises.push(sshServer(config, conn))
+})
+
+Promise.all(promises).then((data) => {
+    data.forEach((d) => {
+        if (Array.isArray(d)) {
+            tables.push(d)
+        }
     })
-}).connect({
-    host: '47.111.8.143',
-    port: 37219,
-    username: 'inspe_user',
-    password: 'ywja666',
-    readyTimeout: 5000
-});
+    console.log(tables);
+    // console.log(data);
+})
+
