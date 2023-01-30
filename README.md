@@ -25,6 +25,7 @@
 3. <a href="https://github.com/CatsAndMice/blog/issues/37">仿jsDoc写一个最简单的文档生成</a>
 4. <a href="https://github.com/CatsAndMice/blog/issues/34">玩转nodeJs文件模块</a>
 5. <a href="https://github.com/CatsAndMice/blog/issues/41">【Node.js】写一个数据自动整理成表格的脚本</a>
+6. <a href="https://github.com/CatsAndMice/blog/issues/42">【Node.js】ssh2.js+Shell一套组合拳下来，一年要花2080分钟做的工作竟然节省到52分钟～ </a>
 
 ## 我的故事
 1. <a href="https://github.com/CatsAndMice/blog/issues/39">平淡无奇，2022年终总结</a>
