@@ -2,6 +2,7 @@
 node_modules
 docs/.vuepress/dist/
 ssh/config.json
+ssh/server.xlsx
 # /dist
 .id
 dist.zip
