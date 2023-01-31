@@ -27,6 +27,8 @@ module.exports = (config, conn) => {
                     rol[1] = '异常'
                 }
             })
+
+            // FIXME:该命令结果有问题，结果均返回空
             exec(before + 'docker info |grep -A 5 "WARNING"').then((content) => {
                 if (content) {
                     rol[2] = '异常'
