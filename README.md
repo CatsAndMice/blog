@@ -1,5 +1,8 @@
 # 凌览的博客
 
+## 博客浏览量
+![](http://profile-counter.glitch.me/blog/count.svg)
+
 ## 公众号
 |微信（凌览本人）|公众号|
 |:----:|:----:|
