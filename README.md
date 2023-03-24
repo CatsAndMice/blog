@@ -40,6 +40,7 @@
 4. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/34">玩转nodeJs文件模块</a>
 5. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/41">【Node.js】写一个数据自动整理成表格的脚本</a>
 6. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/42">【Node.js】ssh2.js+Shell一套组合拳下来，一年要花2080分钟做的工作竟然节省到52分钟～ </a>
+7. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/48">Node.js搭建Https服务</a>
 
 ## 我的故事
 1. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/39">平淡无奇，2022年终总结</a>
