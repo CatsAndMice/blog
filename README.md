@@ -1,13 +1,4 @@
 # 凌览的博客
-
-## 自建的图床网站
-欢迎使用，提出您宝贵的意见至开源仓库issues中   
-
-网站地址：https://oss.lafyun.com/xewqkw-blog/main.html
-
-开源仓库地址：https://github.com/CatsAndMice/oss-image
-
-## 博客浏览量
 ![](https://visitor-badge.glitch.me/badge?page_id=blog)
 
 ## 公众号
