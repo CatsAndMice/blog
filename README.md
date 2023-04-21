@@ -8,7 +8,7 @@
 开源仓库地址：https://github.com/CatsAndMice/oss-image
 
 ## 博客浏览量
-![](http://profile-counter.glitch.me/blog/count.svg)
+![](https://visitor-badge.glitch.me/badge?page_id=blog)
 
 ## 公众号
 |微信（凌览本人）|公众号|
