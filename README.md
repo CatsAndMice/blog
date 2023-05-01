@@ -7,12 +7,11 @@
 |<img src="https://ywja-public-bucket.oss-cn-hangzhou.aliyuncs.com//server-platform/1/upload/2022-12-18/1671366140974.png" width="90px" height="90px">|<img  src="https://ywja-public-bucket.oss-cn-hangzhou.aliyuncs.com//server-platform/1/upload/2022-12-18/1671366140922.png"   width="90px" height="90px">|
 |凌览|凌览社|
 
-## 专栏
+## 活跃社区
 * [掘金](https://juejin.cn/user/3350967174565198/posts)
 * [CSDN](https://blog.csdn.net/qq_45472813?type=blog)
 * [segmentfault](https://segmentfault.com/u/xuexishiwokuaile_612449e36bade)
 * [知乎](https://www.zhihu.com/people/25-32-14-8/posts)
-* [简书](https://www.jianshu.com/u/a94709bb19c1)
 
 ## 历史文章
 1. <a target="_blank" href="https://github.com/CatsAndMice/Blog/issues/28">有手就会系列——实现日地月公转</a>
