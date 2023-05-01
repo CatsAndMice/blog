@@ -24,6 +24,7 @@
 7. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/45">前端Vue+axios实现阿里云oss文件上传(服务端签名直传)</a>
 8. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/46">CSS::marker让文字序号不再呆板</a>
 9. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/49">前端切图仔入门Docker，三分钟上线自己的博客平台</a>
+10. <a target="blank" href="https://github.com/CatsAndMice/blog/issues/50">从张鑫旭的demo中，我学到了图像拉伸的原理</a>
 
 ## Node.js实战
 1. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/40">Node.js操作Dom ，轻松hold住简单爬虫</a>
