@@ -34,6 +34,9 @@
 6. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/42">【Node.js】ssh2.js+Shell一套组合拳下来，一年要花2080分钟做的工作竟然节省到52分钟～ </a>
 7. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/48">Node.js搭建Https服务</a>
 
+## 阅读分享  
+[《软技能：代码以外的生存指南》阅读总结](https://github.com/CatsAndMice/blog/issues/52)
+
 ## 我的故事
 1. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/39">平淡无奇，2022年终总结</a>
 2. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/29">写给五年后的自己</a>
