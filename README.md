@@ -25,6 +25,7 @@
 9. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/49">前端切图仔入门Docker，三分钟上线自己的博客平台</a>
 10. <a target="blank" href="https://github.com/CatsAndMice/blog/issues/50">从张鑫旭的demo中，我学到了图像拉伸的原理</a>
 11. [mitt用100行实现发布-订阅模式还收获了9k的Star](https://github.com/CatsAndMice/blog/issues/53)
+12. [学会Pointer指针事件 ，一套拖拽事件两端(PC端、移动端)跑](https://github.com/CatsAndMice/blog/issues/54)
 
 ## Node.js实战
 1. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/40">Node.js操作Dom ，轻松hold住简单爬虫</a>
