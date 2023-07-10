@@ -42,5 +42,6 @@
 ## 我的故事
 1. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/39">平淡无奇，2022年终总结</a>
 2. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/29">写给五年后的自己</a>
+3. [2023年中总结｜马马虎虎](https://github.com/CatsAndMice/blog/issues/55)
 
 
