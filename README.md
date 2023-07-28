@@ -38,7 +38,8 @@
 7. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/48">Node.js搭建Https服务</a>
 
 ## 阅读分享  
-[《软技能：代码以外的生存指南》阅读总结](https://github.com/CatsAndMice/blog/issues/52)
+[《软技能：代码以外的生存指南》阅读总结](https://github.com/CatsAndMice/blog/issues/52)  
+[《影响力》阅读总结+一些产品推广的思考](https://github.com/CatsAndMice/blog/issues/57)
 
 ## 我的故事
 1. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/39">平淡无奇，2022年终总结</a>
