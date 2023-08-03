@@ -1,5 +1,4 @@
 # 凌览的博客
-![](https://visitor-badge.glitch.me/badge?page_id=blog)
 
 ## 公众号
 |微信（凌览本人）|公众号|
