@@ -38,6 +38,7 @@
 6. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/42">【Node.js】ssh2.js+Shell一套组合拳下来，一年要花2080分钟做的工作竟然节省到52分钟～ </a>
 7. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/48">Node.js搭建Https服务</a>
 8. [用Node.js吭哧吭哧撸一个运动主页](https://github.com/CatsAndMice/blog/issues/59)
+9. [NodeServe：构建高效静态文件服务器的完美指南](https://github.com/CatsAndMice/blog/issues/61)
 
 ## 阅读分享  
 [《软技能：代码以外的生存指南》阅读总结](https://github.com/CatsAndMice/blog/issues/52)  
