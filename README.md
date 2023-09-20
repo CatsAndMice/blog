@@ -28,6 +28,7 @@
 13. [和我女神王冰冰一起学display: flex布局](https://github.com/CatsAndMice/blog/issues/56)
 14. [Nginx之正、反向代理](https://github.com/CatsAndMice/blog/issues/58)
 15. [【一点点税务知识】我的工资原来是这样少的](https://github.com/CatsAndMice/blog/issues/60)
+16. [Wappalyzer浏览器插件：揭开网站的技术秘密](https://github.com/CatsAndMice/blog/issues/64)
 
 ## Node.js实战
 1. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/40">Node.js操作Dom ，轻松hold住简单爬虫</a>
@@ -43,7 +44,8 @@
 ## 阅读分享  
 [《软技能：代码以外的生存指南》阅读总结](https://github.com/CatsAndMice/blog/issues/52)  
 [《影响力》阅读总结+一些产品推广的思考](https://github.com/CatsAndMice/blog/issues/57)  
-[微信之父张小龙的一次内部分享](https://github.com/CatsAndMice/blog/issues/62)
+[微信之父张小龙的一次内部分享](https://github.com/CatsAndMice/blog/issues/62)  
+[富裕的习惯：通往财富之路的关键](https://github.com/CatsAndMice/blog/issues/63)
 
 ## 我的故事
 1. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/39">平淡无奇，2022年终总结</a>
