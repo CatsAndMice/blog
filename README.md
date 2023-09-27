@@ -29,6 +29,7 @@
 14. [Nginx之正、反向代理](https://github.com/CatsAndMice/blog/issues/58)
 15. [【一点点税务知识】我的工资原来是这样少的](https://github.com/CatsAndMice/blog/issues/60)
 16. [Wappalyzer浏览器插件：揭开网站的技术秘密](https://github.com/CatsAndMice/blog/issues/64)
+17. [Git Stash：临时保存和切换工作状态的利器](https://github.com/CatsAndMice/blog/issues/65)
 
 ## Node.js实战
 1. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/40">Node.js操作Dom ，轻松hold住简单爬虫</a>
