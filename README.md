@@ -41,6 +41,7 @@
 7. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/48">Node.js搭建Https服务</a>
 8. [用Node.js吭哧吭哧撸一个运动主页](https://github.com/CatsAndMice/blog/issues/59)
 9. [NodeServe：构建高效静态文件服务器的完美指南](https://github.com/CatsAndMice/blog/issues/61)
+10. [Linux服务器上运行Puppeteer的Docker部署指南](https://github.com/CatsAndMice/blog/issues/66)
 
 ## 阅读分享  
 1. [《软技能：代码以外的生存指南》阅读总结](https://github.com/CatsAndMice/blog/issues/52)  
