@@ -24,11 +24,7 @@
 9. [NodeServe：构建高效静态文件服务器的完美指南](https://github.com/CatsAndMice/blog/issues/61)
 10. [Linux服务器上运行Puppeteer的Docker部署指南](https://github.com/CatsAndMice/blog/issues/66)
 
-## 阅读分享  
-1. [《软技能：代码以外的生存指南》阅读总结](https://github.com/CatsAndMice/blog/issues/52)  
-2. [《影响力》阅读总结+一些产品推广的思考](https://github.com/CatsAndMice/blog/issues/57)  
-3. [微信之父张小龙的一次内部分享](https://github.com/CatsAndMice/blog/issues/62)  
-4. [富裕的习惯：通往财富之路的关键](https://github.com/CatsAndMice/blog/issues/63)
+[书籍分享&笔记](https://github.com/CatsAndMice/blog/issues?q=is%3Aopen+is%3Aissue+label%3A%E9%98%85%E8%AF%BB)  
 
 ## 我的故事
 1. <a target="_blank" href="https://github.com/CatsAndMice/blog/issues/39">平淡无奇，2022年终总结</a>
