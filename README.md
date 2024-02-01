@@ -33,10 +33,12 @@
 4. [谈谈我是怎么走上程序员这行的](https://github.com/CatsAndMice/blog/issues/67)
 
   
-<details open="true"> <summary>2024.01</summary>
+<details open="true"> <summary>2024.01</summary> 
   
+  * [前端玩Word：Word文档解析成浏览器认识的HTML](https://linglan01.cn/post/69)  
+  * [【工具推荐】代码管理工具 CodeGist](https://linglan01.cn/post/68) 
   * [盘点2023前端技术，谁才是当红炸子鸡](https://github.com/CatsAndMice/blog/issues/74)
-
+    
 </details>
 
 
